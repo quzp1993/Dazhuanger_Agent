@@ -1,0 +1,4 @@
+interface:
+  display_name: "Co-Scientist Loop"
+  short_description: "Run a lightweight multi-agent scientific hypothesis loop."
+  default_prompt: "Use the Co-Scientist loop to generate, review, rank, evolve, and summarize testable research hypotheses."
